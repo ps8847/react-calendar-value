@@ -4,12 +4,12 @@ React Calendar Value is a versatile and customizable calendar component for mana
 
 ## ReactDatePicker
 <div style="padding: 10px;">
-    <img src="image/DatePicker.png" alt="ReactDatePicker" style="width: 100%; padding: 10px;">
+    <img src="image/DatePicker.png" alt="ReactDatePicker" style="width: 80%; padding: 10px;">
 </div>
 
 ## ReactRangeDatePicker
 <div style="padding: 10px;">
-    <img src="image/DateRangePicker.png" alt="ReactRangeDatePicker" style="width: 100%; padding: 10px;">
+    <img src="image/DateRangePicker.png" alt="ReactRangeDatePicker" style="width: 80%; padding: 10px;">
 </div>
 
 
