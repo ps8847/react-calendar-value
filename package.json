@@ -1,6 +1,6 @@
 {
   "name": "react-calendar-value",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A React Package used to show/pick/set values on particular Dates on Calendar",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,10 @@
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/preset-react": "^7.24.1",
+    "babel-loader": "^9.1.3"
   }
 }
