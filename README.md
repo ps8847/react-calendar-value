@@ -2,9 +2,9 @@
 
 React Calendar Value is a versatile and customizable calendar component for managing date selections and values in React applications.
 
-![ReactDatePicker](/images/DatePicker.png)
+![ReactDatePicker](images/DatePicker.png)
 <br/>
-![ReactRangeDatePicker](/images/DateRangePicker.png)
+![ReactRangeDatePicker](images/DateRangePicker.png)
 
 
 ## Installation
