@@ -1,0 +1,26 @@
+{
+  "name": "react-calendar-value",
+  "version": "1.0.0",
+  "description": "A React Package used to show/pick/set values on particular Dates on Calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mmt",
+    "mmtcalendar",
+    "react-date",
+    "date",
+    "react",
+    "npm",
+    "calendar",
+    "react-calendar-value",
+    "calendar-value"
+  ],
+  "author": "Prince Sharma",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
