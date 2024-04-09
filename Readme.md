@@ -2,9 +2,15 @@
 
 React Calendar Value is a versatile and customizable calendar component for managing date selections and values in React applications.
 
-![ReactDatePicker](images/ReactDatePicker.png)
-<br/>
-![ReactRangeDatePicker](images/ReactRangeDatePicker.png)
+## DatePicker
+<div style="padding: 10px;">
+    <img src="image/DatePicker.png" alt="DatePicker" style="width: 80%; padding: 10px;">
+</div>
+
+## DateRangePicker
+<div style="padding: 10px;">
+    <img src="image/DateRangePicker.png" alt="DateRangePicker" style="width: 80%; padding: 10px;">
+</div>
 
 
 ## Installation
@@ -14,17 +20,13 @@ You can install the React Calendar Value package using npm or yarn.
 Using npm:
 
 ```
-
 npm install react-calendar-value
-
 ```
 
 Using yarn:
 
 ```
-
 yarn add react-calendar-value
-
 ```
 
 Once installed, you can import the component in your React application and start using it.
@@ -34,7 +36,7 @@ Once installed, you can import the component in your React application and start
 
 ## Note
 
-The value of the Dates should be in this format only ()
+The value of the Dates should be in this format only
 ```jsx
 
 const data = [
@@ -117,10 +119,7 @@ export default function App() {
     </div>
   );
 }
-
-
 ```
-
 
 ## 2. DateRangePicker
 
@@ -129,11 +128,6 @@ Import the DateRangePicker use it in your React application:
 ```jsx
 import React, { useEffect, useState } from "react";
 import DateRangePicker from "react-calendar-value";
-
-/**
- * DateRangePicker component demonstrates the usage of the DateRangePicker component.
- * It allows users to select a date range and displays the selected date range along with a calendar for date picking.
- */
 
 export default function App() {
 
@@ -182,9 +176,6 @@ export default function App() {
     </div>
   );
 }
-
-
-
 ```
 
 
@@ -196,6 +187,3 @@ Contributions, bug reports, and feature requests are welcome. Feel free to open 
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
-
-```
